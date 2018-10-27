@@ -1,2 +1,3 @@
 # hello-world
-just a first repository
+
+Hello there. I like sarma a lot.
